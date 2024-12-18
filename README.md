@@ -29,7 +29,7 @@ The goal of this dashboard is to provide an interactive and visually insightful 
 <h2 style="font-family: Arial, sans-serif; color: #333;">Dashboard Structure</h2>
 The dashboard provides an interactive overview with the following features:
 
-![Dashboard](https://drive.google.com/uc?export=view&id=1ZZ7b0TsGin7-_y65_cDgDcVH7RPu0LTo)
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=1wBT7f1PxE-QnLOeGInZgdXBISj7ZYXI_)
 
 ### Cancellation Rate Overview
 - A line chart or bar chart showing the cancellation rate across different months or seasons. 
