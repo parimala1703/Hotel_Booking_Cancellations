@@ -19,7 +19,6 @@ This dashboard was created using the following steps and features to provide a c
 - Converted data into formats suitable for visualization (e.g., categorizing seasons and booking statuses).
 ![Setup Data Cleaning](https://drive.google.com/uc?export=view&id=1ZZ7b0TsGin7-_y65_cDgDcVH7RPu0LTo)
 
-
 ### Data Segmentation
 1. **Guest Types**: Segmenting by couple, family, and single.
 2. **Hotel Types**: Differentiated between city hotels and resort hotels.
@@ -28,14 +27,11 @@ This dashboard was created using the following steps and features to provide a c
 
 ## Dashboard Structure
 The dashboard provides an interactive overview with the following features:
-https://drive.google.com/uc?export=view&id=1ZZ7b0TsGin7-_y65_cDgDcVH7RPu0LTo
-
 
 ### Cancellation Rate Overview
 - A line chart or bar chart showing the cancellation rate across different months or seasons. 
 - This allows stakeholders to identify trends in cancellations, particularly for peak vs. off-peak seasons.
-- https://drive.google.com/uc?export=view&id=1gPfFaD2bGjsgUWDWCdT4LUgi51OfgWjf
-
+![Cancellation Rate Overview](https://drive.google.com/uc?export=view&id=1gPfFaD2bGjsgUWDWCdT4LUgi51OfgWjf)
 
 ### Guest Type Segmentation
 - A pie chart or bar chart displaying the proportion of cancellations by guest type (couple, family, single).
@@ -88,5 +84,6 @@ Using the dashboard, the following key insights were derived:
 
 ## Conclusion
 The Hotel Booking Cancellations Dashboard provides valuable insights into booking trends and cancellations, helping hotel management teams make informed decisions to reduce cancellations and improve customer satisfaction. By leveraging this dashboard, hotels can optimize their room assignment processes, adjust marketing strategies, and better align their operations with customer preferences.
+
 
 
