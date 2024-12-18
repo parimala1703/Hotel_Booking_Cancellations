@@ -28,10 +28,14 @@ This dashboard was created using the following steps and features to provide a c
 
 ## Dashboard Structure
 The dashboard provides an interactive overview with the following features:
+https://drive.google.com/uc?export=view&id=1ZZ7b0TsGin7-_y65_cDgDcVH7RPu0LTo
+
 
 ### Cancellation Rate Overview
 - A line chart or bar chart showing the cancellation rate across different months or seasons. 
 - This allows stakeholders to identify trends in cancellations, particularly for peak vs. off-peak seasons.
+- https://drive.google.com/uc?export=view&id=1gPfFaD2bGjsgUWDWCdT4LUgi51OfgWjf
+
 
 ### Guest Type Segmentation
 - A pie chart or bar chart displaying the proportion of cancellations by guest type (couple, family, single).
