@@ -17,7 +17,7 @@ This dashboard was created using the following steps and features to provide a c
 - Ensured the dataset was free from duplicates and missing values.
 - Categorized data into guest types (couple, family, single), room statuses (desired vs. undesired), and hotel types (city hotel, resort hotel).
 - Converted data into formats suitable for visualization (e.g., categorizing seasons and booking statuses).
-- ![Hotel Booking Dashboard](https://drive.google.com/uc?export=view&id=1ZZ7b0TsGin7-_y65_cDgDcVH7RPu0LTo)
+- [Setup Data Cleaning](https://drive.google.com/uc?export=view&id=1gPfFaD2bGjsgUWDWCdT4LUgi51OfgWjf)
 
 
 ### Data Segmentation
