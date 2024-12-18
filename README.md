@@ -28,6 +28,8 @@ This dashboard was created using the following steps and features to provide a c
 ## Dashboard Structure
 The dashboard provides an interactive overview with the following features:
 
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=1wBT7f1PxE-QnLOeGInZgdXBISj7ZYXI_)
+
 ### Cancellation Rate Overview
 - A line chart or bar chart showing the cancellation rate across different months or seasons. 
 - This allows stakeholders to identify trends in cancellations, particularly for peak vs. off-peak seasons.
@@ -84,6 +86,5 @@ Using the dashboard, the following key insights were derived:
 
 ## Conclusion
 The Hotel Booking Cancellations Dashboard provides valuable insights into booking trends and cancellations, helping hotel management teams make informed decisions to reduce cancellations and improve customer satisfaction. By leveraging this dashboard, hotels can optimize their room assignment processes, adjust marketing strategies, and better align their operations with customer preferences.
-
 
 
